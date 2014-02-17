@@ -1,0 +1,506 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pictorial\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Mon Dec 02 2013 23:00:21 GMT+0000 (GMT Standard Time)\n"
+"PO-Revision-Date: Mon Dec 02 2013 23:02:21 GMT+0000 (GMT Standard Time)\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: English (UK)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Loco-Target-Locale: en_GB"
+
+msgid "All posts by %s"
+msgstr ""
+
+msgid "Archives"
+msgstr ""
+
+msgid "Meta"
+msgstr ""
+
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+msgid "Pages:"
+msgstr ""
+
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" "
+"href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+# Only comments open
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" "
+"title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+# Comments and trackbacks closed
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Comment navigation"
+msgstr ""
+
+msgid "&larr; Older Comments"
+msgstr ""
+
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+msgid "Comments are closed."
+msgstr ""
+
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+msgctxt "placeholder"
+msgid "Search - Type & Hit Enter &hellip;"
+msgstr ""
+
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+msgid "Most Used Categories"
+msgstr ""
+
+# translators: %1$s: smiley
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+msgid "Search Results for: %s"
+msgstr ""
+
+msgid "Author: %s"
+msgstr ""
+
+msgid "Day: %s"
+msgstr ""
+
+msgid "Month: %s"
+msgstr ""
+
+msgid "Year: %s"
+msgstr ""
+
+msgid "Asides"
+msgstr ""
+
+msgid "Images"
+msgstr ""
+
+msgid "Videos"
+msgstr ""
+
+msgid "Quotes"
+msgstr ""
+
+msgid "Links"
+msgstr ""
+
+msgid "Nothing Found"
+msgstr ""
+
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching "
+"can help."
+msgstr ""
+
+msgid "Pages: "
+msgstr ""
+
+# translators: used between list items, there is a space after the comma
+# translators: used between list items, there is a space after the comma
+# Translators: used between list items, there is a space after the comma.
+# Translators: used between list items, there is a space after the comma.
+# translators: used between list items, there is a space after the comma
+# translators: used between list items, there is a space after the comma
+msgid ", "
+msgstr ""
+
+msgid ""
+"This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to "
+"%4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" "
+"rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to "
+"%4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+msgid "Primary Menu"
+msgstr ""
+
+#  Translators: If there are characters in your language that are not supported by Lato, translate this to 'off'. Do not translate into your own language.
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+msgid "Sticky"
+msgstr ""
+
+msgid "View all posts by %s"
+msgstr ""
+
+msgctxt "1: post format name. 2: date"
+msgid "%1$s on %2$s"
+msgstr ""
+
+msgid "Permalink to %s"
+msgstr ""
+
+msgid "A Semantic Personal Publishing Platform"
+msgstr ""
+
+msgid "Proudly powered by %s"
+msgstr ""
+
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+msgid "Posted in %1$s"
+msgstr ""
+
+msgid "Tagged %1$s"
+msgstr ""
+
+msgid "Leave a comment"
+msgstr ""
+
+msgid "1 Comment"
+msgstr ""
+
+msgid "% Comments"
+msgstr ""
+
+msgid "Page %s"
+msgstr ""
+
+msgid "Page %1$s of %2$s"
+msgstr ""
+
+msgid "Post navigation"
+msgstr ""
+
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+msgid "Pingback:"
+msgstr ""
+
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+msgid ""
+"<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+
+msgid "Header Widget"
+msgstr ""
+
+msgid ""
+"Displays to the right of the site title. Only 1 widget with no title - ideal "
+"for a banner ad."
+msgstr ""
+
+msgid "Showcase One - Above Content."
+msgstr ""
+
+msgid ""
+"One of four above content showcase widget - ideal for use with the Pictorial - "
+"Alternative Recent Posts widget"
+msgstr ""
+
+msgid "Showcase Two - Above Content."
+msgstr ""
+
+msgid "Showcase Three - Above Content"
+msgstr ""
+
+msgid "Showcase Four - Above Content."
+msgstr ""
+
+msgid "One of four above content showcase widget - use sparingly."
+msgstr ""
+
+msgid "Main Sidebar"
+msgstr ""
+
+msgid ""
+"Main sidebar - displays on the right of the content on all pages except the 404 "
+"page."
+msgstr ""
+
+msgid "404 Sidebar"
+msgstr ""
+
+msgid "404 sidebar - displays on the right of the 404 page content."
+msgstr ""
+
+msgid "Footer Area One"
+msgstr ""
+
+msgid "An optional widget area for your site footer"
+msgstr ""
+
+msgid "Footer Area Two"
+msgstr ""
+
+msgid "Footer Area Three"
+msgstr ""
+
+msgid "Footer Area Four"
+msgstr ""
+
+msgid "An optional widget area for your site footer."
+msgstr ""
+
+msgid "Sitewide General Options"
+msgstr ""
+
+msgid "Home Intro Options"
+msgstr ""
+
+msgid "Social Options"
+msgstr ""
+
+msgid "Header Logo Image"
+msgstr ""
+
+msgid "Show Tagline below Site Title/Logo?"
+msgstr ""
+
+msgid "Hide Title On Pages?"
+msgstr ""
+
+msgid "Hide the \"latest Posts\" title?"
+msgstr ""
+
+msgid "Enter Custom Feed Title"
+msgstr ""
+
+msgid "Hide Comment Form on the Attachment page"
+msgstr ""
+
+msgid "Hide the home page intro section?"
+msgstr ""
+
+msgid "Hide Intro Title?"
+msgstr ""
+
+msgid "Enter Intro Title here - make it short & catchy!"
+msgstr ""
+
+msgid "Learn more"
+msgstr ""
+
+msgid "Home Intro Button Text"
+msgstr ""
+
+msgid "Home Intro Learn Button Link"
+msgstr ""
+
+msgid "Learn More Url Window Target"
+msgstr ""
+
+msgid "Open Link In Same Tab"
+msgstr ""
+
+msgid "Open Link In New Tab"
+msgstr ""
+
+msgid "Sign Up"
+msgstr ""
+
+msgid "Home Intro Signup Button Text"
+msgstr ""
+
+msgid "Home Intro Signup Button Link"
+msgstr ""
+
+msgid "Sign Up Url Window Target"
+msgstr ""
+
+msgid "Show Header Social Icons?"
+msgstr ""
+
+msgid "Show Sidebar Social Icons?"
+msgstr ""
+
+msgid "Sidebar Social Title"
+msgstr ""
+
+msgid "Facebook URL"
+msgstr ""
+
+msgid "Google+ URL"
+msgstr ""
+
+msgid "Twitter URL"
+msgstr ""
+
+msgid "Pinterest URL"
+msgstr ""
+
+msgid "Instagram URL"
+msgstr ""
+
+msgid "LinkedIn URL"
+msgstr ""
+
+msgid "YouTube URL"
+msgstr ""
+
+msgid "Flicker URL"
+msgstr ""
+
+msgid "WordPress URL"
+msgstr ""
+
+msgid "GitHub URL"
+msgstr ""
+
+msgid "Dribbble URL"
+msgstr ""
+
+msgid "Use Default RSS Feed url?"
+msgstr ""
+
+msgid "Alternative Custom RSS Feed URL - leave blank if above default url checked!"
+msgstr ""
+
+msgid ""
+"Pictorial - Recent Posts (Widescope Thumbs). Can be used for the sidebar and as "
+"an alternative to the Showcase Widget."
+msgstr ""
+
+msgid "Pictorial - Recent Posts"
+msgstr ""
+
+msgid "Pictorial Recent Posts"
+msgstr ""
+
+msgid "Widget Title:"
+msgstr ""
+
+msgid "Select A Category:"
+msgstr ""
+
+msgid "Number of Post to show:"
+msgstr ""
+
+msgid "Hide Widegt Title:"
+msgstr ""
+
+msgid "Hide Thumbnail:"
+msgstr ""
+
+msgid "Hide Post Date:"
+msgstr ""
+
+msgid "Hide the Excerpt:"
+msgstr ""
+
+msgid "Hide Readmore Button:"
+msgstr ""
+
+msgid ""
+"Pictorial - Alternative Recent Posts (Circle Thumbs - large). To be used in "
+"conjunction with the Showcase Sidebar to build a custom post layout on the "
+"home/index page."
+msgstr ""
+
+msgid "Pictorial - Alternative Recent Posts"
+msgstr ""
+
+msgid "Pictorial Alternative Recent Posts"
+msgstr ""
+
+msgid "Square Thumbnails?:"
+msgstr ""
+
+msgid "Hide Thumbnails:"
+msgstr ""
+
+msgid "Hide Readmore Button :"
+msgstr ""

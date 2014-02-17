@@ -1,0 +1,30 @@
+Theme Name:   Pictorial
+File Name:    Changelog
+Tested up to: 3.9-alpha
+Stable tag:	  1.0.5
+
+== Changelog ==
+
+= 1.0.5 =
+* Added customizer data sanitization for better security.
+
+= 1.0.4 =
+* Minor bug fix for content showing as excerpt when front page was set as a static page.
+
+= 1.0.3 =
+* Implemented usage of front-page.php for front page as per WPTRT advice.
+* home.php refined as a fallback for internal blog index/feed when front page is set to a static page.
+
+= 1.0.2 =
+* Changed theme name in footer credit link - had accidentally left in the production placeholder
+* Added textdomain declaration in style.css head
+* NEW: Added do_action hooks for better extra content placement support
+* Removed the unused slider functions and files
+
+= 1.0.1 =
+* Added license and copyright for Twitter Bootstrap Dropdown Menu JS - located in the js folder.
+* Removed globe.jpg is its a residue and unused image from WP HeadR
+* Removed the incorrect language files - correct .pot and en_GB language files added.
+
+= 1.0.0 =
+Initial Release 
